@@ -96,7 +96,7 @@ _____________________________
     ELEMENTOS DE CITAÇÃO
 _____________________________
 
-Tag <abbr></abber>: serve pra abreviar um texto.
+Tag <abbr></abbr>: serve pra abreviar um texto.
     Se colocares (<abbr title="Coloque um comentario qualquer sobre o texto"></abbr) Coloca um comentario qualquer sobre o texto
 
 Tag <address></address>: serve pra colocar um endereço (Email, Morada, etc..)
