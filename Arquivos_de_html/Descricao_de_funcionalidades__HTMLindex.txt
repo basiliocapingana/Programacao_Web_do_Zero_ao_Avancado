@@ -152,6 +152,10 @@ Tag <table></table>: é a tag de tabela.
 tag <tr></tr>: é a linha
 tag <th></th>: é colun
 tag <td></td>: é onde ficam os dados da tabela referente as colunas
+tag <thead></thead>: é o cabeçalho da tabela
+tag <tfooter></tfooter>: é o rodapé da tabela
+Atributo rowspan: aplica-se nos th e trata de expandir as colunas no sentido vertical
+Atributo colspan: aplica-se nos th e td e trata de expandir as colunas e linhas no senido horizontal
 Sua estrutura basica é:
 
 <table>
