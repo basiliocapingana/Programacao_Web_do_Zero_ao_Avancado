@@ -4,7 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     gap: 5px;
-    background-image: linear-gradient(180deg, black 10%, blue, black 90%);
+    background-image: linear-gradient(180deg, black 20%, blue, black 80%);
     position: relative;
 }
 
@@ -112,6 +112,7 @@ body {
 
 .form-group input:focus~label,
 .form-group input:valid~label {
+    font-size: 14px;
     top: -5px;
     transition: .6s;
 }
